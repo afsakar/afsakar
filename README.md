@@ -1,4 +1,5 @@
-# Hi, I'm Azad Furkan ŞAKAR <br><small>Civil Engineer, Jr. PHP Developer, Graffiti Artist</small>
+### Hi, I'm Azad Furkan ŞAKAR 
+#### (Civil Engineer, Jr. PHP Developer, Graffiti Artist)
 
 
 <div style="text-align: justify">
@@ -7,23 +8,12 @@ I completed my undergraduate education on civil engineering. After 3 years of wo
 
 <br>
 
-## 📊 Stats
+### 📊 Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsakar&show_icons=true&locale=en&layout=compact&theme=buefy" alt="afsakar" height="150"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=afsakar&show_icons=true&theme=buefy" alt="afsakar" height="150"/>
 
-<br>
-
-## 💼 Last Projects
-<a href="https://github.com/afsakar/codepay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afsakar&repo=codepay&theme=buefy" height="100" />
-</a>
-
-<a href="https://github.com/afsakar/laraquiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afsakar&repo=laraquiz&theme=buefy" height="100" />
-</a>
-
-<br>
+</br>
 
 ![Profile views](https://gpvc.arturio.dev/afsakar)
