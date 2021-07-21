@@ -1,4 +1,4 @@
-### Hi, I'm Azad Furkan ŞAKAR 
+### Hi, I'm Azad Furkan
 #### (Civil Engineer, Jr. PHP Developer, Graffiti Artist)
 
 
