@@ -1,5 +1,5 @@
 ### Hi, I'm Azad Furkan
-#### (Civil Engineer, Jr. PHP Developer, Graffiti Artist)
+#### (Civil Engineer, PHP Developer, Graffiti Artist)
 
 
 <div style="text-align: justify">
