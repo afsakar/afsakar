@@ -1,12 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azad Furkan ŞAKAR
-=========================================================================================================================================
-
 A Civil Engineer devoted to Web Development. I develop projects with Laravel, VueJS, NuxtJS and try to learn new technologies every day. I am currently working on NoSQL databases.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [afsakar.dev](http://afsakar.dev)
 * ✉️  You can contact me at [info@afsakar.com](mailto:info@afsakar.com)
-* 🧠  I'm learning NoSQL Databases, NuxtJS
+* 🧠  I'm learning Firebase, VueJS
 * 🤝  I'm open to collaborating on learning new stuff
 
 ### Skills
