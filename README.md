@@ -1,4 +1,4 @@
-A Civil Engineer devoted to Web Development. I develop projects with Laravel, VueJS, NuxtJS and try to learn new technologies every day. I am currently working on NoSQL databases.
+A Civil Engineer devoted to Web Development. I develop projects with Laravel, VueJS, NuxtJS and try to learn new technologies every day.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [afsakar.dev](http://afsakar.dev)
