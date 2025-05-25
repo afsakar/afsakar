@@ -11,7 +11,7 @@ I am a passionate **self-taught backend developer** with expertise in building e
 #### Projects & Interests:
 - Developing custom backend solutions with Laravel.
 - Building interactive frontend components with Vue.js and Alpine.js.
-- Working on plugin development fpr FilamentPHP.
+- Working on plugin development for FilamentPHP.
 - Interested in secure file handling, encryption, and performance optimization.
 
 Feel free to check out my repositories to explore my work, or reach out if you want to collaborate!
