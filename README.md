@@ -1,8 +1,6 @@
 <a href="https://afsakar.dev/">
-  <img src="./assets/banner.png" width="100%" alt="Azad Furkan Şakar — Building dependable Laravel products. Laravel, architecture and performance." />
+  <img src="./assets/banner.svg" width="100%" alt="Azad Furkan Şakar — Building dependable Laravel products. Three aligned architectural layers gently separate and come together." />
 </a>
-
-<img src="./assets/animated-accent.svg" width="100%" alt="A subtle crimson signal connecting solid foundations to shipped products." />
 
 <p align="center">
   <a href="https://afsakar.dev/">Portfolio</a> ·
